@@ -1,0 +1,808 @@
+Ką nurodo CSS taisyklė margin?
+
+
+Pasirinkite vieną:
+ a. Atstumas nuo teksto iki rėmelio ir nuo rėmelio iki kitų blokų bus vienodi
+ b. Atstumas nuo teksto iki rėmelio
+ c. Atstumas nuo rėmellio iki kitų blokų 
+Grįžtamasis ryšys
+Your answer is correct.
+Teisingas atsakymas yra: Atstumas nuo rėmellio iki kitų blokų.
+Kuris PHP kintamasis užrašytas teisingai?
+Pasirinkite vieną:
+ a. $2017-metai
+ b. $_2017metai 
+ c. $2017metai
+Grįžtamasis ryšys
+Your answer is correct.
+Teisingas atsakymas yra: $_2017metai.
+Kuris PHP kintamasis parašytas neteisingi?
+Pasirinkite vieną:
+ a. $manoKintamasis
+ b. $mano_kintamasis
+ c. $mano-kintamasis 
+Grįžtamasis ryšys
+Your answer is correct.
+Teisingas atsakymas yra: $mano-kintamasis.
+@media (min-width: 1024px) {
+   //Taisykles
+}
+kam bus taikomos taisyklės įrašytos tarp riestinių skliaustų?
+
+
+Pasirinkite vieną:
+ a. Uždėti elementui 1024 minimalų plotį
+ b. Taikyti įrenginiams didesniems negu 1024px pločio 
+ c. Taikyti įrenginiams mažesniems negu 1024px pločio
+Grįžtamasis ryšys
+Your answer is correct.
+Teisingas atsakymas yra: Taikyti įrenginiams didesniems negu 1024px pločio.
+Kokia GIT komanda pakeičia darbinę šaką (branch) į "testas"?
+
+
+Pasirinkite vieną:
+ a. git branch testas
+ b. git checkout testas 
+ c. git change testas
+Grįžtamasis ryšys
+Jūsų atsakymas yra teisingas.
+Teisingas atsakymas yra: git checkout testas.
+Kuris HTML elementas nurodys jog tekstas bus pabrauktas?
+Pasirinkite vieną:
+ a.
+<u>Tekstas</u>
+ b.
+<ul>Tekstas</ul>
+ c.
+<line>Tekstas</line>
+Grįžtamasis ryšys
+Your answer is correct.
+Teisingas atsakymas yra:
+<u>Tekstas</u>
+Turimas JAVA programinio kodo fragmentas:
+int diena = 6;
+int dienu = 0;
+switch (diena) {
+  case 1:
+    dienu += 1;
+  case 2:
+    dienu += 2;
+  case 3:
+    dienu += 3;
+  case 4:
+    dienu += 4;
+  case 5:
+    dienu += 5;
+  case 6:
+    dienu += 6;
+  case 7:
+    dienu += 7;
+}
+System.out.print(dienu);
+
+
+Ką išves aukščiau pateikta programa?
+
+
+Pasirinkite vieną:
+ a. 13 
+ b. Programoje yra klaidų
+ c. 6
+Grįžtamasis ryšys
+Your answer is correct.
+Teisingas atsakymas yra: 13.
+Kuris kintamasis JAVA programavimo kalboje turi neteisingą pavadinimą?
+Pasirinkite vieną:
+ a. mano-kintamasis 
+ b. manoKintamasis
+ c. mano_kintamasis
+Grįžtamasis ryšys
+Your answer is correct.
+Teisingas atsakymas yra: mano-kintamasis.
+Kokiu simboliu pabaigiama kiekviena komanda JAVA programavimo kalboje?
+Pasirinkite vieną:
+ a. Riestiniais skliaustais
+ b. Kabliataškiu 
+ c. Nauja eilute
+Grįžtamasis ryšys
+Your answer is correct.
+Teisingas atsakymas yra: Kabliataškiu.
+Kas bus išvesta įvykdžius žemiau pateiktą PHP programą?
+<?php
+$x=1;
+$y=2;
+echo $x/$y;
+Pasirinkite vieną:
+ a. 0
+ b. 1
+ c. 0.5 
+Grįžtamasis ryšys
+Your answer is correct.
+Teisingas atsakymas yra: 0.5.
+Kuris kintamasis JAVA programavimo kalba turi neteisingą pavadinimą?
+
+
+Pasirinkite vieną:
+ a. 2015Metai 
+ b. _2015Metai
+ c. metai2015
+Grįžtamasis ryšys
+Your answer is correct.
+Teisingas atsakymas yra: 2015Metai.
+Turimas PHP programinio kodo fragmentas:
+class Skaiciai{
+    public $sk=1;
+    function Skaiciai(){
+        $this->sk++;
+    }
+    function _construct(){
+        $this->sk++;
+    }
+}
+ 
+$var=new Skaiciai();
+$var->_construct();
+echo $var->sk;
+Ką išves ši programa?
+Pasirinkite vieną:
+ a. 1
+ b. 2
+ c. 3 
+Grįžtamasis ryšys
+Your answer is correct.
+Teisingas atsakymas yra: 3.
+Turimas JAVA programinio kodo fragmentas:
+int x=1; 
+int y=0;
+System.out.print(x+y+" – suma");
+Kas bus išvesta įvykdžius šį programinį kodą?
+
+
+Pasirinkite vieną:
+ a. 10 - suma
+ b. 1 - suma 
+ c. Bus parodyta klaida
+Grįžtamasis ryšys
+Your answer is correct.
+Teisingas atsakymas yra: 1 - suma.
+Kaip HTML puslapyje perkeltumėte tekstą į naują eilutę?   
+Pasirinkite vieną:
+ a. Panaudočiau HTML elementą <br> 
+ b. Parašyčiau naujos eilutės kodą „\n“
+ c. Tiesiog perkelčiau HTML kode tekstą į naują eilutę
+Grįžtamasis ryšys
+Your answer is correct.
+Teisingas atsakymas yra: Panaudočiau HTML elementą <br>.
+Turimas PHP programinio kodo fragmentas:
+$labas="Labas";
+$vakaras='$labas vakaras';
+ 
+echo "Tekstas: $vakaras";
+Ką išves ši programa?
+Pasirinkite vieną:
+ a. Tekstas: $vakaras
+ b. Tekstas: Labas vakaras
+ c. Tekstas: $labas vakaras 
+Grįžtamasis ryšys
+Your answer is correct.
+Teisingas atsakymas yra: Tekstas: $labas vakaras.
+Kas bus išvesta įvykdžius žemiau pateiktą PHP programą?
+
+
+<?php
+$i=10;
+$x= ++$i - $i++;
+echo $x;
+Pasirinkite vieną:
+ a. 0 
+ b. -1
+ c. 1
+Grįžtamasis ryšys
+Your answer is correct.
+Teisingas atsakymas yra: 0.
+Turimas PHP programinio kodo fragmentas:
+$z=array(""=>5, null=>6);
+echo sizeof($z);
+Ką išves ši programa?
+Pasirinkite vieną:
+ a. 1 
+ b. 0
+ c. 2
+Grįžtamasis ryšys
+Your answer is correct.
+Teisingas atsakymas yra: 1.
+Kokie elementai ir jų turinys neatvaizduojami puslapyje?
+Pasirinkite vieną:
+ a.
+<meta>
+ b.
+<h1>
+ c.
+<span>
+Grįžtamasis ryšys
+Your answer is correct.
+Teisingas atsakymas yra:
+<meta>
+.
+Turimas JAVA programinio kodo fragmentas:
+int x=10;
+int suma=0;
+for (int x=10; x>0; x-=2;){
+  suma+=10;
+}
+System.out.println(suma);
+
+Ką išves ši programa?
+Pasirinkite vieną:
+ a. 4
+ b. 9 
+ c. 8
+Grįžtamasis ryšys
+Your answer is correct.
+Teisingas atsakymas yra: 9.
+Kas bus išvesta įvykdžius žemiau pateiktą PHP programą?
+
+<?php
+$x=5;
+
+if($x=2)
+	echo "Lygu";
+else
+	echo "Nelygu";
+Pasirinkite vieną:
+ a. Parodys jog programoje yra klaida
+ b. Lygu 
+ c. Nelygu
+Grįžtamasis ryšys
+Your answer is correct.
+Teisingas atsakymas yra: Lygu.
+Jei JAVA kalboje turėtumėme tokį programinį kodą:
+int x = 5;
+double y = 2;
+int z = x / y;
+
+Kokią rekšmę turės kintamasis z?
+Pasirinkite vieną:
+ a. 2,5
+ b. Programinis kodas parašytas su klaidomis 
+ c. 2
+Grįžtamasis ryšys
+Your answer is correct.
+Teisingas atsakymas yra: Programinis kodas parašytas su klaidomis.
+Kokį išskirimą naudotumėte PHP komentarams parašyti?
+Pasirinkite vieną:
+ a. /* komentaras */ 
+ b. <? komentaras ?>
+ c. <!-- komentaras -->
+Grįžtamasis ryšys
+Your answer is correct.
+Teisingas atsakymas yra: /* komentaras */.
+Turimas PHP programinio kodo fragmentas:
+class Gyventojas{
+    function getVardas(){
+        return $this->vardas;
+    }
+}
+ 
+class Darbuotojas extends  Gyventojas{
+    public $vardas="Petras";
+ 
+    function isvesti(){
+        echo $this->getVardas();
+    }
+}
+ 
+$var=new Darbuotojas();
+$var->isvesti();
+Ką išves ši programa?
+Pasirinkite vieną:
+ a. Parodys klaidą jog nėra f-jos getVardas() 
+ b. Petras
+ c. Parodys klaidą jog nėra kintamojo vardas
+Grįžtamasis ryšys
+Your answer is incorrect.
+Teisingas atsakymas yra: Petras.
+Turimas PHP programinio kodo fragmentas:
+$z=array(1, 6=>2, 3);
+$suma=0;
+foreach ($z as $k=>$v){
+    $suma+=$k;
+}
+echo $suma;
+Ką išves ši programa?
+Pasirinkite vieną:
+ a. 3
+ b. 13 
+ c. 6
+Grįžtamasis ryšys
+Your answer is correct.
+Teisingas atsakymas yra: 13.
+Turimas PHP programinio kodo fragmentas:
+$x=null;
+$y="";
+ 
+if ($x==$y){
+    echo "Lygu";
+}else{
+    echo "Nelygu";
+}
+Ką išves ši programa?
+Pasirinkite vieną:
+ a. Kode yra klaidų
+ b. Nelygu
+ c. Lygu 
+Grįžtamasis ryšys
+Your answer is correct.
+Teisingas atsakymas yra: Lygu.
+Turimas PHP programinio kodo fragmentas:
+$x=null;
+$y="";
+ 
+if ($x===$y){
+    echo "Lygu";
+}else{
+    echo "Nelygu";
+}
+Ką išves ši programa?
+Pasirinkite vieną:
+ a. Nelygu 
+ b. Kode yra klaidų
+ c. Lygu
+Grįžtamasis ryšys
+Your answer is correct.
+Teisingas atsakymas yra: Nelygu.
+Kuri SQL užklausa teisinga?
+Pasirinkite vieną:
+ a. DELETE FROM darbuotojai 
+ b. DELETE all FROM darbuotojai
+ c. DELETE * FROM darbuotojai
+Grįžtamasis ryšys
+Your answer is correct.
+Teisingas atsakymas yra: DELETE FROM darbuotojai.
+Koks <form> elemento atributas nurodo, kokiu būdu (POST, GET) bus išsiųsti formos duomenys?   
+Pasirinkite vieną:
+ a. input
+ b. method 
+ c. action
+Grįžtamasis ryšys
+Your answer is correct.
+Teisingas atsakymas yra: method.
+Turimas JAVA programinio kodo fragmentas:
+int x=10;
+x=++x + 1 + x++;
+Kam bus lygus x įvykdžius šią programą?
+
+
+Pasirinkite vieną:
+ a. 21
+ b. 22
+ c. 23 
+Grįžtamasis ryšys
+Your answer is correct.
+Teisingas atsakymas yra: 23.
+Turimas PHP programinio kodo fragmentas:
+$x=10;
+$y=5;
+ 
+echo $x<=>$y;
+Ką išves ši programa?
+Pasirinkite vieną:
+ a. 1 
+ b. 0
+ c. 5
+Grįžtamasis ryšys
+Your answer is correct.
+Teisingas atsakymas yra: 1.
+Turimas JAVA programinio kodo fragmentas:
+int x=3;
+int y=2;
+y+=x+2;
+System.out.print(x+y);
+Kas bus parodyta įvykdžius šią programą?
+Pasirinkite vieną:
+ a. 5
+ b. 7
+ c. 10 
+Grįžtamasis ryšys
+Your answer is correct.
+Teisingas atsakymas yra: 10.
+Kas būtų nuspalvinta, jei DIV elementui nurodytume CSS taisyklė „color“?   
+Pasirinkite vieną:
+ a. div elemente esantis tekstas būtų nurodytos spalvos 
+ b. div element fonas būtų nurodytos spalvos
+ c. div elementas būtų nurodytos spalvos
+Grįžtamasis ryšys
+Your answer is correct.
+Teisingas atsakymas yra: div elemente esantis tekstas būtų nurodytos spalvos.
+Ką nurodo CSS taisyklė padding?   
+Pasirinkite vieną:
+ a. Atstumas nuo teksto iki rėmelio 
+ b. Atstumas nuo teksto iki rėmelio ir nuo rėmelio iki kitų blokų bus vienodi
+ c. Atstumas nuo rėmellio iki kitų blokų
+Grįžtamasis ryšys
+Your answer is correct.
+Teisingas atsakymas yra: Atstumas nuo teksto iki rėmelio.
+Turimas PHP programinio kodo fragmentas:
+$vardas="Jonas";
+$Vardas="Antanas";
+echo "$vardas $Vardas";
+Ką išves ši programa?
+Pasirinkite vieną:
+ a. Jonas Jonas
+ b. Antanas Antanas
+ c. Jonas Antanas 
+Grįžtamasis ryšys
+Your answer is correct.
+Teisingas atsakymas yra: Jonas Antanas.
+Kas bus išvesta įvykdžius žemiau pateiktą PHP programą?
+
+
+<?php
+$i=10;
+$x= ++$i - $i++;
+echo $x;
+Pasirinkite vieną:
+ a. Execute functions 
+ b. Stop functions
+ c. functions
+Grįžtamasis ryšys
+Your answer is correct.
+Teisingas atsakymas yra: Execute functions.
+Turimas PHP programinio kodo fragmentas:
+$x=5;
+ 
+echo $x>5?"Mažiau":"Daugiau";
+Ką išves ši programa?
+Pasirinkite vieną:
+ a. Kode yra klaidų
+ b. Daugiau 
+ c. Mažiau
+Grįžtamasis ryšys
+Your answer is correct.
+Teisingas atsakymas yra: Daugiau.
+Turimas JAVA programinio kodo fragmentas:
+int x=5; 
+int y=4;
+if (x==5 || y!=4){
+  System.out.print("Tiesa");
+}else{
+  System.out.print("Netiesa");
+}
+Ką išves programa?
+
+
+Pasirinkite vieną:
+ a. Netiesa
+ b. Programoje yra klaida
+ c. Tiesa 
+Grįžtamasis ryšys
+Your answer is correct.
+Teisingas atsakymas yra: Tiesa.
+Jei išsiuntus html formą, duomenys įvesti į laukelius atsiranda adrese (pvz. paieska.php?s=zodis), koks formos išsiuntimo metodas buvo naudojamas?
+
+
+Pasirinkite vieną:
+ a. HEADER
+ b. POST
+ c. GET 
+Grįžtamasis ryšys
+Your answer is correct.
+Teisingas atsakymas yra: GET.
+Kurie HTML elementai yra „block“ tipo?
+Pasirinkite vieną:
+ a. div, span, p
+ b. div, table, a
+ c. div, p, table 
+Grįžtamasis ryšys
+Your answer is correct.
+Teisingas atsakymas yra: div, p, table.
+Turimas JAVA programinio kodo fragmentas:
+int x=5; 
+int suma=0;
+if (x==0) suma+=5;
+          suma+=2;
+Ką išves ši programa?
+
+
+Pasirinkite vieną:
+ a. 2 
+ b. 7
+ c. Programoje yra klaida
+Grįžtamasis ryšys
+Your answer is correct.
+Teisingas atsakymas yra: 2.
+Kuri CSS taisyklė nurodo jog teksto spalva bus raudona:
+
+
+Pasirinkite vieną:
+ a.
+p { font-color: red; } 
+ b.
+p { color: red; }
+ c.
+p { text-color: red; }
+Grįžtamasis ryšys
+Your answer is correct.
+Teisingas atsakymas yra:
+p { color: red; }
+Kuris HTML elementas nurodys jog tekstas turi būti pakreiptas?
+Pasirinkite vieną:
+ a.
+<strong>Tekstas</strong>
+ b.
+<i>Tekstas</i>
+ c.
+<italic>Tekstas</italic>
+Grįžtamasis ryšys
+Your answer is correct.
+Teisingas atsakymas yra:
+<i>Tekstas</i>
+Kuris teiginys apie HTML struktūrą  yra neteisingas?
+Pasirinkite vieną:
+ a. <body> elementas privalo būti <html> elemento viduje
+ b. <head> elementas rašomas <body> elemento viduje 
+ c. Visi <div> elementai privalo būti <body> elemente
+Grįžtamasis ryšys
+Your answer is correct.
+Teisingas atsakymas yra: <head> elementas rašomas <body> elemento viduje.
+Kas bus išvesta įvykdžius žemiau pateiktą PHP programą?
+
+<?php
+$status = "0";
+if($status)
+	echo "Welcome ";
+else
+	echo "Login ";
+echo " user";	
+Pasirinkite vieną:
+ a. Welcome user
+ b. Login user 
+ c. user
+Grįžtamasis ryšys
+Your answer is correct.
+Teisingas atsakymas yra: Login user.
+Kas bus išvesta įvykdžius žemiau pateiktą PHP programą?
+
+<?php
+$user='jonas';
+$password='labas';
+
+if($user=="JONAS"){
+  if ($password=="LABAS"){
+    echo "Sėkmingai prisijungta";
+  }else{
+    echo "Slaptažodis neteisingas";
+  }
+ 
+}else{
+   echo "Neteisingas vartotojo vardas";
+}
+Pasirinkite vieną:
+ a. Slaptažodis neteisingas
+ b. Neteisingas vartotojo vardas 
+ c. Sėkmingai prisijungta
+Grįžtamasis ryšys
+Your answer is correct.
+Teisingas atsakymas yra: Neteisingas vartotojo vardas.
+SELECT * FROM table WHERE count > 8 ORDER BY id DESC LIMIT 9; 
+Ką atgrąžins tokia užklausa?
+
+
+Pasirinkite vieną:
+ a. Visus duomenis iš table lentelės kur count mažiau už 8, surikiuos pagal id mažėjimo
+tvarka ir išves 9 rezultatus.
+ b.
+Visus duomenis iš table lentelės kur count daugiau už 8, surikiuos pagal id mažėjimo
+tvarka ir išves 9 rezultatus. 
+ c.
+Visus duomenis iš table lentelės kur count daugiau už 8, surikiuos pagal count
+mažėjimo tvarka ir išves 9 rezultatus.
+Grįžtamasis ryšys
+Jūsų atsakymas yra teisingas.
+Teisingas atsakymas yra:
+Visus duomenis iš table lentelės kur count daugiau už 8, surikiuos pagal id mažėjimo
+tvarka ir išves 9 rezultatus..
+Kas bus išvesta įvykdžius žemiau pateiktą PHP programą?
+
+<?php
+$x=1;
+$y=2;
+echo $x%$y;
+Pasirinkite vieną:
+ a. 1 
+ b. 1.5
+ c. 0
+Grįžtamasis ryšys
+Your answer is correct.
+Teisingas atsakymas yra: 1.
+Kokiu būdu gali būti užrašyti komentarai JAVA programavimo kalboje?
+
+
+Pasirinkite vieną:
+ a. // ir <!--  … -->
+ b. ;; ir /* … */
+ c. // ir /* … */ 
+Grįžtamasis ryšys
+Your answer is correct.
+Teisingas atsakymas yra: // ir /* … */.
+Turimas PHP programinio kodo fragmentas:
+function suma($sk=3) {
+    if ($sk >= 1) {
+        return $sk*suma($sk-1);
+    }
+ 
+    return 1;
+}
+ 
+echo suma();
+Ką išves ši programa?
+Pasirinkite vieną:
+ a. 2
+ b. 6 
+ c. 3
+Grįžtamasis ryšys
+Your answer is correct.
+Teisingas atsakymas yra: 6.
+Tarkime turime tokią CSS taisyklę:
+p#header{ 
+    font-size: 120%;
+} 
+
+
+kam bus pritaikyta ši css taisyklė?
+Pasirinkite vieną:
+ a. Visiems p elementams turintiems klasę „header“
+ b. Visiems header elementams
+ c. Visiems p elementams turintiems id „header” 
+Grįžtamasis ryšys
+Your answer is correct.
+Teisingas atsakymas yra: Visiems p elementams turintiems id „header”.
+Kas bus išvesta įvykdžius žemiau pateiktą PHP programą?
+
+
+<?php
+$i=5;
+$x= $i++ + ++$i;
+echo $x;
+Pasirinkite vieną:
+ a. 11
+ b. 10
+ c. 12 
+Grįžtamasis ryšys
+Your answer is correct.
+Teisingas atsakymas yra: 12.
+Turimas PHP programinio kodo fragmentas:
+<?php
+$suma=0;
+for ($i=0; $i<5;$i++){
+    $suma+= $i++;
+}
+echo $suma;
+
+Kas bus atvaizduota naršyklėje?
+Pasirinkite vieną:
+ a. 6 
+ b. 10
+ c. 8
+Grįžtamasis ryšys
+Your answer is correct.
+Teisingas atsakymas yra: 6.
+Turimas JAVA programinio kodo fragmentas:
+int x=1; 
+int y=0;
+System.out.print("Atsakymas: "+x+y);
+Kas bus išvesta įvykdžius šį programinį kodą?
+
+
+Pasirinkite vieną:
+ a. Bus parodyta klaida
+ b. Atsakymas 1
+ c. Atsakymas 10 
+Grįžtamasis ryšys
+Your answer is correct.
+Teisingas atsakymas yra: Atsakymas 10.
+@media (max-width: 1024px) {
+ //Taisykles
+}
+
+
+Kam bus taikomos taisyklės įrašytos tarp riestinių skliaustų?
+Pasirinkite vieną:
+ a. Taikyti įrenginiams didesniems negu 1024px pločio
+ b. Uždėti elementui 1024 minimalų plotį
+ c. Taikyti įrenginiams mažesniems negu 1024px pločio 
+Grįžtamasis ryšys
+Your answer is correct.
+Teisingas atsakymas yra: Taikyti įrenginiams mažesniems negu 1024px pločio.
+Turimas PHP programinio kodo fragmentas:
+function suma($x, $y = 0) {
+    echo $x + $y;
+}
+suma(5, 5);
+suma(5);
+Ką išves ši programa?
+Pasirinkite vieną:
+ a. 105 
+ b. 55
+ c. 50
+Grįžtamasis ryšys
+Your answer is correct.
+Teisingas atsakymas yra: 105.
+Kuris teiginys apie PHP kalbą yra neteisingas?
+Pasirinkite vieną:
+ a. Kitamieji aprašyti vienoje <?php žymoje, bus prieinami ir visose tolimesnėse <?php žymose esančiose tame pačiame faile
+ b. Rašant PHP kodą, atidarius <?php žymę, failo pabaigoje ją privalome uždaryti
+ c. PHP programiniuose blokuose ( kurie apskliausti { } skliaustais ) galime nutraukti PHP žymes <?php ir įterpti HTML kodą, o vėliau testi programinį bloką. 
+Grįžtamasis ryšys
+Your answer is incorrect.
+Teisingas atsakymas yra: Rašant PHP kodą, atidarius <?php žymę, failo pabaigoje ją privalome uždaryti.
+Kurie HTML elementai yra „inline“ tipo?
+
+
+Pasirinkite vieną:
+ a. span, ol, i
+ b. span, a, img 
+ c. span, ul, p
+Grįžtamasis ryšys
+Your answer is correct.
+Teisingas atsakymas yra: span, a, img.
+Kuris raktinis SQL žodis naudojamas, kai norima išvengti dublikuotų (identiškų) rezultate pateikiamų eilučių?
+
+
+Pasirinkite vieną:
+ a. DISTINCT 
+ b. CONNECT
+ c. CONCAT
+Grįžtamasis ryšys
+Jūsų atsakymas yra teisingas.
+Teisingas atsakymas yra: DISTINCT.
+Kas bus išvesta įvykdžius žemiau pateiktą PHP programą?
+
+
+<?php
+$x=15;
+$y=10;
+if($x>10 || $y<5)
+	echo "Teisinga";
+else
+	echo "Neteisinga";
+Pasirinkite vieną:
+ a. Neteisinga
+ b. Teisinga 
+ c. Parodys jog programoje yra klaidų
+Grįžtamasis ryšys
+Your answer is correct.
+Teisingas atsakymas yra: Teisinga.
+Tarkime turime tokią CSS taisyklę:
+p.header{ 
+font-size: 120%;
+} 
+
+
+kam bus pritaikyta ši css taisyklė?
+Pasirinkite vieną:
+ a. Visiems header elementams
+ b. Visiems p elementams turintiems klasę „header“ 
+ c. Visiems p elementams turintiems id „header”
+Grįžtamasis ryšys
+Your answer is correct.
+Teisingas atsakymas yra: Visiems p elementams turintiems klasę „header“.
+Kurie HTML elementai privalomi kiekvienam puslapiui?
+Pasirinkite vieną:
+ a. <html> <meta>
+ b. <html> <p>
+ c. <html> <body> 
+Grįžtamasis ryšys
+Your answer is correct.
+Teisingas atsakymas yra: <html> <body>.
+Kuri užklausa atnaujins duomenis lentelėje?
+
+
+Pasirinkite vieną:
+ a. UPDATE table SET column1 = value1 WHERE id = 5 
+ b. UPDATE table column1 = value1 WHERE id = 5
+ c. UPDATE column1 = value1 WHERE id = 5
+Grįžtamasis ryšys
+Jūsų atsakymas yra teisingas.
+Teisingas atsakymas yra: UPDATE table SET column1 = value1 WHERE id = 5.
+
